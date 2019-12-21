@@ -22,6 +22,16 @@ Hosted at **https://campus-assistant.herokuapp.com/**
 
 3. When a user logs in and views the detail of a product, the number of views of that product increases by 1. In this way, the top 3 products with the maximum number of views are displayed on the home page.
 
+## Some screenshots of the web app
+
+![Live help](https://github-projects.s3.ap-south-1.amazonaws.com/UNA-A1.png)
+![Live help](https://github-projects.s3.ap-south-1.amazonaws.com/UNA-A2.png)
+![Live help](https://github-projects.s3.ap-south-1.amazonaws.com/UNA-A3.png)
+![Login page](https://github-projects.s3.ap-south-1.amazonaws.com/UNA-login.png)
+![Products page](https://github-projects.s3.ap-south-1.amazonaws.com/UNA-products.png)
+![Search page](https://github-projects.s3.ap-south-1.amazonaws.com/UNA-search.png)
+![Profile page](https://github-projects.s3.ap-south-1.amazonaws.com/UNA-profile.png)
+
 ## Need for Campus UN.A
 Ever wondered where to pay those fines that admin forces on you for no reason? Ever wanted to book one plate Maggie before going to canteen so you don't have wait? Ever wondered to have a single platform where you can pay to admin and  shops simultaneously without making several rounds to different blocks and caring about cash in you pocket. We provide you the platform to make the four years of your college admin free and rusty cash free.
 
